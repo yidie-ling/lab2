@@ -8,7 +8,17 @@
 	/* Colors are in hexadecimal: http://www.colorpicker.com/ */	
 	color: #CC00AA;
 }
-
+/* css selectors: basic element types*/
+p{
+     font-variant: small-caps;
+}
+/* css selectors: ids */
+.project p{
+     font-variant: small-caps;
+}
+#project1{
+     font-variant: small-caps;
+}
 /* this style exists to make it obvious that you've successfully linked
    the CSS to the page. feel free to remove it once the link is working. */
 body {
